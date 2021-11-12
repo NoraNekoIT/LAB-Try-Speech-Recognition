@@ -13,6 +13,7 @@
 - pipwin install pyaudio
 
 ## Documentation
-<html>
+
+<body>
 <embed src = "document/Laporan_praktikun_speechRecognition.pdf" type = "application / pdf" width = "100%" height = "600px" />
-</html>
+</body>
