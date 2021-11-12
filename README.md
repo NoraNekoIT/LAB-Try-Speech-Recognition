@@ -14,6 +14,6 @@
 
 ## Documentation
 
-<embed src = "document/Laporan_praktikun_speechRecognition.pdf" type="application/pdf">
-
-
+<body>
+<embed src = "document/Laporan_praktikun_speechRecognition.pdf" type = "application / pdf" width = "100%" height = "600px" />
+</body>
